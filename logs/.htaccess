@@ -1,0 +1,4 @@
+AuthUserFile /etc/apache2/log.htpasswd
+AuthType Basic
+AuthName "Logs"
+Require valid-user
